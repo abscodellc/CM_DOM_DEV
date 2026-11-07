@@ -1,7 +1,7 @@
 {
-  main_domain: "codemasters.cloud",
-  domains: [
-  "remote.nx-player.tech",
-  "remote.abs-media.com"
+  "main_domain": "codemasters.cloud",
+  "domains": [
+    "remote.nx-player.tech",
+    "remote.abs-media.com"
   ]
 }
