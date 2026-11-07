@@ -1,6 +1,6 @@
 {
-  main_domain: "https://vplayer.art",
-  domains: [
+  "main_domain": "vplayer.art",
+  "domains": [
     "remote.vplayer.art",
     "remote.nx-player.tech",
     "remote.abs-media.com"
