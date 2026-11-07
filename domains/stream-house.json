@@ -1,6 +1,6 @@
 {
-  main_domain: "https://streamhouse.site",
-  domains: [
+  "main_domain": "streamhouse.site",
+  "domains": [
     "remote.streamhouse.site",
     "remote.nx-player.tech",
     "remote.abs-media.com"
